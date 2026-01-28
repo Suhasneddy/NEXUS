@@ -1,0 +1,17 @@
+# Virtual Environment
+venv_omen/
+__pycache__/
+*.pyc
+
+# Audio files
+*.wav
+*.mp3
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
