@@ -1,3 +1,3 @@
 #!/bin/bash
-source venv/bin/activate
-python main.py 
+source venv_omen/bin/activate
+python main_hybrid.py
